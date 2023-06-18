@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+		<class name="sel_Project.Test1"/>
+		<class name="sel_Project.Test2"/>
+		<class name="sel_Project.Test3"/>
+		<class name="sel_Project.Test4"/>
+		<class name="sel_Project.Test5"/>
+		<class name="sel_Project.Test6"/>
+		<class name="sel_Project.Test7"/>
+		<class name="sel_Project.Test8"/>
+		<class name="sel_Project.Test9"/>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
